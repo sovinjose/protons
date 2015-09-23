@@ -1,0 +1,11 @@
+restaurantenv
+*.pyc
+staticfiles
+.DS_Store
+.idea
+credentials.json
+upload.db
+
+restAus.db
+
+*.db
